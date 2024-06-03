@@ -19,7 +19,7 @@ To run this application, you need to have Python installed. Follow the steps bel
 
 Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/joncutrer/earthquakemap-streamlit.git
 ```
 
 Navigate to the project directory:
